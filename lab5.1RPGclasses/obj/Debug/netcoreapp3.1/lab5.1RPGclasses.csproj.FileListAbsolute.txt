@@ -1,0 +1,13 @@
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\bin\Debug\netcoreapp3.1\lab5.1RPGclasses.exe
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\bin\Debug\netcoreapp3.1\lab5.1RPGclasses.deps.json
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\bin\Debug\netcoreapp3.1\lab5.1RPGclasses.runtimeconfig.json
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\bin\Debug\netcoreapp3.1\lab5.1RPGclasses.runtimeconfig.dev.json
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\bin\Debug\netcoreapp3.1\lab5.1RPGclasses.dll
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\bin\Debug\netcoreapp3.1\lab5.1RPGclasses.pdb
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\obj\Debug\netcoreapp3.1\lab5.1RPGclasses.csprojAssemblyReference.cache
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\obj\Debug\netcoreapp3.1\lab5.1RPGclasses.AssemblyInfoInputs.cache
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\obj\Debug\netcoreapp3.1\lab5.1RPGclasses.AssemblyInfo.cs
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\obj\Debug\netcoreapp3.1\lab5.1RPGclasses.csproj.CoreCompileInputs.cache
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\obj\Debug\netcoreapp3.1\lab5.1RPGclasses.dll
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\obj\Debug\netcoreapp3.1\lab5.1RPGclasses.pdb
+C:\Devbuild2021\lab5.1RPGclasses\lab5.1RPGclasses\obj\Debug\netcoreapp3.1\lab5.1RPGclasses.genruntimeconfig.cache
